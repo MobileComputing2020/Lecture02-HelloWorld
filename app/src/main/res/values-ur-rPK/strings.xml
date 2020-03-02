@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="btn_increment">increment</string>
+    <string name="btn_reset">reset</string>
+    <string name="btn_decrement">decrement</string>
+</resources>

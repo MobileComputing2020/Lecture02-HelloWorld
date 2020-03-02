@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Lecture 02 - Hello World</string>
+    <string name="app_name">Counter</string>
+    <string name="btn_increment">inc</string>
+    <string name="btn_decrement">dec</string>
+    <string name="btn_reset">reset</string>
+
+    <string name="message" translatable="false">Have fun in Sports week</string>
 </resources>
